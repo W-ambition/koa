@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/W-ambition/koa#readme",
   "dependencies": {
+    "@types/koa__cors": "^2.2.3",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "mysql": "^2.17.1",
     "reflect-metadata": "^0.1.13",
+    "sha1": "^1.1.1",
     "typeorm": "^0.2.20"
   },
   "devDependencies": {
